@@ -1,11 +1,10 @@
-## Hi, I'm Brady 👋
+## Hi, I'm Brady
 
 I'm a mathematician turned data scientist. I did my PhD in pure mathematics at
 the University of Waterloo, and these days I use that background to build
 machine-learning models and the tools around them: from audio classifiers and
 credit-risk models to fine-tuned language models that run on a phone.
 
-I'm looking for roles as a **data scientist** or **machine learning engineer**.
 
 ### Selected projects
 
